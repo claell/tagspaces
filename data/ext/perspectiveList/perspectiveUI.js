@@ -189,6 +189,8 @@ console.log("Loading UI for perspectiveList");
             "bLengthChange": false,
             "bFilter": true,
             "bSort": true,
+            "stateSave": true,
+            "stateDuration": 0,
             "bInfo": false,
             "bAutoWidth": false,
             "oLanguage": {
